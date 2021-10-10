@@ -1,4 +1,4 @@
-name: CI - Lint / Tests / Deploy
+name: CI1 - Lint / Tests / Deploy
 
 on: [push]
 
